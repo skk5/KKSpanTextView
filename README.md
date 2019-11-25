@@ -1,2 +1,2 @@
 # KKSpanTextView
-a simple custom of UITextView that supports Span
+a simple custom subclass of UITextView that supports Span
